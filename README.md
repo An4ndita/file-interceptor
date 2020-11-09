@@ -24,12 +24,12 @@ and for local computers, run the following commands in the terminal.
 
 Then download and run this code :
 
->># git clone https://github.com/An4ndita/file-interceptor.git
+ "git clone https://github.com/An4ndita/file-interceptor.git"
 
->># cd file-interceptor
+ "cd file-interceptor"
 
->># mousepad replace-downloads.py
+ "mousepad replace-downloads.py"
 
 Edit the Location: & Replace it with the file that you want the victim to download.
 
->># python3 replace-downloads.py
+ "python3 replace-downloads.py"
